@@ -1,2 +1,2 @@
-# the_odin_project_ruby
+# the_odin_project
 The Odin Project Ruby track studies.
