@@ -24,3 +24,5 @@ hashes = {:dog => 'barks', :cat => 'meows', :pig => 'oinks'}
 # We can retrieve a value by its key:
 hashes[:pig]
 
+# Ruby 1.9 has a new hash syntax
+new_hashes = {dog: 'barks', cat: 'meows', pig: 'oinks'}
